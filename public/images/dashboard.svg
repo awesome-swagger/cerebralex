@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.521" height="14.907" viewBox="0 0 16.521 14.907">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#5597fb;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__Icon_feather-bar-chart-2" data-name="Icon feather-bar-chart-2" transform="translate(1 1)">
+        <path id="prefix__Path_24" d="M27 24.388V15" class="prefix__cls-1" data-name="Path 24" transform="translate(-17.32 -11.481)"/>
+        <path id="prefix__Path_25" d="M18 18.907V6" class="prefix__cls-1" data-name="Path 25" transform="translate(-13.16 -6)"/>
+        <path id="prefix__Path_26" d="M9 28.524V21" class="prefix__cls-1" data-name="Path 26" transform="translate(-9 -15.617)"/>
+        <path id="prefix__Path_27" d="M9 28.524V21" class="prefix__cls-1" data-name="Path 27" transform="translate(5.521 -15.617)"/>
+    </g>
+</svg>

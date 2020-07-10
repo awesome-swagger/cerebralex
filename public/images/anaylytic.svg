@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="10" viewBox="0 0 19 10">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#8393a8}
+        </style>
+    </defs>
+    <g id="prefix__Group_422" data-name="Group 422" transform="translate(-39 -202)">
+        <circle id="prefix__Ellipse_179" cx="1.5" cy="1.5" r="1.5" class="prefix__cls-1" data-name="Ellipse 179" transform="translate(39 209)"/>
+        <circle id="prefix__Ellipse_180" cx="1.5" cy="1.5" r="1.5" class="prefix__cls-1" data-name="Ellipse 180" transform="translate(44 203)"/>
+        <circle id="prefix__Ellipse_181" cx="1.5" cy="1.5" r="1.5" class="prefix__cls-1" data-name="Ellipse 181" transform="translate(49 209)"/>
+        <circle id="prefix__Ellipse_182" cx="1.5" cy="1.5" r="1.5" class="prefix__cls-1" data-name="Ellipse 182" transform="translate(55 202)"/>
+        <path id="prefix__Path_178" d="M40.564 210.894l5.023-6.531 5.3 5.8 6.1-7.334" data-name="Path 178" style="fill:none;stroke:#929eb9"/>
+    </g>
+</svg>
